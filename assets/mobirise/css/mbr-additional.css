@@ -73,3 +73,74 @@
   font-size: 17px;
   color: #cccccc;
 }
+
+
+
+
+#ext_menu-j .mbr-brand__name {
+  font-size: 16px;
+}
+#ext_menu-j.mbr-navbar--stuck .mbr-navbar__section {
+  background: #28324e;
+}
+#ext_menu-j .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#ext_menu-j .mbr-brand__name a {
+  font-size: 20px;
+}
+#ext_menu-j .mbr-navbar__items a {
+  font-size: 17px;
+  font-family: 'Roboto', sans-serif;
+}
+#header2-k P {
+  text-align: center;
+  color: #ffffff;
+  font-size: 46px;
+  font-family: 'Indie Flower', cursive;
+}
+#content5-l .mbr-header .mbr-header__text {
+  text-align: center;
+  color: #e4e8f4;
+  font-size: 22px;
+  font-family: 'Titillium Web', sans-serif;
+}
+#content5-l .mbr-header .mbr-header__subtext {
+  text-align: center;
+  color: #fff;
+}
+#content5-l .mbr-article {
+  color: #fff;
+  font-size: 21px;
+}
+#content5-l .mbr-header .mbr-header__text I {
+  color: #e61f0a;
+}
+#testimonials1-m .mbr-section__header DIV {
+  color: #ffffff;
+}
+#testimonials1-m .mbr-section__header {
+  color: #ffffff;
+  text-align: left;
+}
+#testimonials1-m .mbr-reviews__text P {
+  color: #252525;
+}
+#testimonials1-n .mbr-reviews__text P {
+  color: #28324e;
+  font-family: 'Lora', serif;
+  text-align: left;
+}
+#testimonials1-n .mbr-section__header {
+  color: #ffffff;
+}
+#testimonials1-n .mbr-reviews__author-name {
+  color: #ffffff;
+}
+#contacts3-o UL {
+  font-size: 17px;
+}
+#contacts3-o P {
+  font-size: 17px;
+  color: #cccccc;
+}

@@ -1,0 +1,401 @@
+{
+  "settings": {
+    "name": "Instarook",
+    "currentPage": "Ведение групп",
+    "theme": {
+      "name": "default",
+      "title": "Mobirise",
+      "styling": {}
+    },
+    "versionFirst": "3.10.3",
+    "uniqCompNum": 19,
+    "versionPublish": "3.10.3"
+  },
+  "pages": {
+    "Ведение групп": {
+      "settings": {
+        "main": true,
+        "title": "",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#28324e"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".mbr-brand__name a": {
+              "font-size": "20px"
+            },
+            ".mbr-navbar__items a": {
+              "font-size": "17px",
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
+            }
+          },
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-1",
+          "_params": {
+            "color": "#28324e",
+            "hamburgerColor": "#ffffff",
+            "transparent": true,
+            "sticky": true,
+            "collapsed": false,
+            "logo": true,
+            "showBrand": true,
+            "showButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/128x128-32.png",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "#top",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"#top\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Услуги администртора</a>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"Ведение групп#content5-7\">О нас</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"Ведение групп#testimonials1-e\">Отзывы</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"Ведение групп#contacts3-h\">Контакты</a></li>",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"https://vk.com/im?media=&amp;sel=330850501\" data-toolbar=\"-mbrBtnMove\">Заказать</a></li>"
+        },
+        {
+          "_inherit": "header1",
+          "_tags": [
+            "Theme"
+          ],
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_name": "header2",
+          "_anchor": "header2-5",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1429186219543-755f5bfeeef8-2000x1330-62.jpg",
+            "bgColor": "#4c6972",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "contentAlign": "center",
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "showArrow": true
+          },
+          "title": "Нет времени на ведение группы?",
+          "text": "Мы вам поможем!",
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-warning animated fadeInUp delay\" href=\"https://mobirise.com\">LEARN MORE</a>",
+          "_styles": {
+            "P": {
+              "text-align": "center",
+              "color": "#ffffff",
+              "font-size": "46px",
+              "font-family": "'Indie Flower', cursive",
+              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower"
+            }
+          }
+        },
+        {
+          "_inherit": "msg-box3",
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "center",
+              "color": "#e4e8f4",
+              "font-size": "22px",
+              "font-family": "'Titillium Web', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center",
+              "color": "#fff"
+            },
+            ".mbr-article": {
+              "color": "#fff",
+              "font-size": "21px"
+            },
+            ".mbr-header .mbr-header__text I": {
+              "color": "#e61f0a"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-7",
+          "_params": {
+            "showCaption": true,
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "showTitle": true,
+            "showText": true,
+            "showButton": false,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1473514483695-024f62e674ea-2000x1333-92.jpg",
+            "bgColor": "#000000",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.2,
+            "overlayColor": "#28324e",
+            "showMeta": false,
+            "darkBackground": true
+          },
+          "title": "Мы предалгаем ежедневное обновление вашей группы тематическими постами всего за &nbsp;&nbsp;<i>1000р в месяц!</i><br>4 новости в сутки!<br>(Текст+ фото+хештеги)",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<br><br>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>"
+        },
+        {
+          "items": [
+            {
+              "text": "<p class=\"mbr-reviews__p\"><b>Свяжитесь с нами </b>по контактам:<br>Вконтакте</p><p class=\"mbr-reviews__p\">ICQ, Skype , Email</p>",
+              "authorName": "ABANOUB S.",
+              "authorBio": "User"
+            },
+            {
+              "text": "<p class=\"mbr-reviews__p\"><b>Проинформируйте нас</b>.</p><p class=\"mbr-reviews__p\">Ссылка на ваше сообщество.&nbsp;Какие новости (посты) вы хотите видеть в вашей группе, а так же в какое время.</p>",
+              "authorName": "SUFFIAN A.",
+              "authorBio": "User"
+            },
+            {
+              "text": "<p class=\"mbr-reviews__p\"><b>Доступ</b><br>Для публикации новостей нам нужен доступ к вашей группе в качестве редактора, либо администратора ( на ваш выбор).</p>",
+              "authorName": "JHOLLMAN C.",
+              "authorBio": "User"
+            }
+          ],
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "testimonials1",
+          "testimonial": [
+            {
+              "text": "<p class=\"mbr-reviews__p\"><b>Свяжитесь с нами </b>по контактам:<br>Вконтакте</p><p class=\"mbr-reviews__p\">ICQ, Skype , Email</p>",
+              "authorName": "ABANOUB S.",
+              "authorBio": "User"
+            },
+            {
+              "text": "<p class=\"mbr-reviews__p\"><b>Проинформируйте нас</b>.</p><p class=\"mbr-reviews__p\">Ссылка на ваше сообщество.&nbsp;Какие новости (посты) вы хотите видеть в вашей группе, а так же в какое время.</p>",
+              "authorName": "SUFFIAN A.",
+              "authorBio": "User"
+            },
+            {
+              "text": "<p class=\"mbr-reviews__p\"><b>Доступ.</b><br>Для публикации новостей нам нужен доступ к вашей группе в качестве редактора, либо администратора ( на ваш выбор).</p>",
+              "authorName": "JHOLLMAN C.",
+              "authorBio": "User"
+            }
+          ],
+          "_anchor": "testimonials1-c",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1480694313141-fce5e697ee25-2000x1333-88.jpg",
+            "bgColor": "#cccccc",
+            "bgColorRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "count": 3,
+            "showName": false,
+            "showBio": false
+          },
+          "header": "&nbsp;3 беслпатных дня ведения для теста. &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<div>&nbsp;<i>Что для этого нужно?</i></div>",
+          "_styles": {
+            ".mbr-section__header DIV": {
+              "color": "#ffffff"
+            },
+            ".mbr-section__header": {
+              "color": "#ffffff",
+              "text-align": "left"
+            },
+            ".mbr-reviews__text P": {
+              "color": "#252525"
+            }
+          }
+        },
+        {
+          "items": [
+            {
+              "text": "<p class=\"mbr-reviews__p\">“Сотрудничаем уже два месяца, в целом меня все устраивает.Наполненность, интересные посты, оперативность, прислушиваются к пожеланиям. Так что рада сотрудничать и развиваться вместе ”</p>",
+              "authorName": "Светлана Искусных .",
+              "authorBio": ""
+            },
+            {
+              "text": "<p class=\"mbr-reviews__p\">“Отличная работа ребят! Все во время как и обещали! Буду дальше сотрудничать! Рекомендую всем! А так же благодарю Анну и её команду!”</p>",
+              "authorName": "Павел Усов.",
+              "authorBio": "User"
+            },
+            {
+              "text": "<p class=\"mbr-reviews__p\">“Всем привет.&nbsp;</p><p class=\"mbr-reviews__p\">Ведением группы доволен, все что обещают, выполняют. По группе работаем 3-й месяц.&nbsp;</p><p class=\"mbr-reviews__p\">Группа молодая, есть еще куда расти и развиваться.</p><p class=\"mbr-reviews__p\">Спасибо Вам за помощь!💪💪💪</p><p class=\"mbr-reviews__p\">5 из 5.&nbsp;</p><p class=\"mbr-reviews__p\">Рекомендую..”</p>",
+              "authorName": "Станислав Маевский.",
+              "authorBio": "User"
+            }
+          ],
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "testimonials1",
+          "testimonial": [
+            {
+              "text": "<p class=\"mbr-reviews__p\">“Сотрудничаем уже два месяца, в целом меня все устраивает.Наполненность, интересные посты, оперативность, прислушиваются к пожеланиям. Так что рада сотрудничать и развиваться вместе ”</p>",
+              "authorName": "Светлана Искусных .",
+              "authorBio": ""
+            },
+            {
+              "text": "<p class=\"mbr-reviews__p\">“Отличная работа ребят! Все во время как и обещали! Буду дальше сотрудничать! Рекомендую всем! А так же благодарю Анну и её команду!”</p>",
+              "authorName": "Павел Усов.",
+              "authorBio": "User"
+            },
+            {
+              "text": "<p class=\"mbr-reviews__p\">“Всем привет.&nbsp;</p><p class=\"mbr-reviews__p\">Ведением группы доволен, все что обещают, выполняют. По группе работаем 3-й месяц.&nbsp;</p><p class=\"mbr-reviews__p\">Группа молодая, есть еще куда расти и развиваться.</p><p class=\"mbr-reviews__p\">Спасибо Вам за помощь!💪💪💪</p><p class=\"mbr-reviews__p\">5 из 5.&nbsp;</p><p class=\"mbr-reviews__p\">Рекомендую..”</p>",
+              "authorName": "Станислав Маевский.",
+              "authorBio": "User"
+            }
+          ],
+          "_anchor": "testimonials1-e",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "1",
+            "bgImageRadio": true,
+            "parallax": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1465210649170-0c88267775be-2000x1331-40.jpg",
+            "bgColor": "#000000",
+            "bgColorRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "count": "3",
+            "showName": true,
+            "showBio": false
+          },
+          "header": "Отзывы наших клиентов",
+          "_styles": {
+            ".mbr-reviews__text P": {
+              "color": "#28324e",
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "text-align": "left"
+            },
+            ".mbr-section__header": {
+              "color": "#ffffff"
+            },
+            ".mbr-reviews__author-name": {
+              "color": "#ffffff"
+            }
+          }
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts3",
+          "_anchor": "contacts3-h",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#282828",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "text1": "<b style=\"line-height: 1.7em; font-style: italic;\">Контакты</b><br>\nEmail: i.rook@mail.ru<br>VK.COM &nbsp;&nbsp;<a href=\"http://vk.com/smm79\" class=\"text-warning\">vk.com/smm79</a><br>ICQ&nbsp;<br>Skype",
+          "text2": "<p class=\"mbr-contacts__text\"><b><i>Навигация</i></b></p><p class=\"mbr-contacts__text\"><a href=\"Ведение групп#content5-7\" class=\"text-warning\" style=\"line-height: 1.7em; background-color: rgb(40, 40, 40);\">О нас</a><br></p><ul class=\"mbr-contacts__list\"><li><a href=\"Ведение групп#testimonials1-e\" class=\"text-warning\">Отзывы</a></li><li><a href=\"Ведение групп#contacts3-h\" class=\"text-warning\">Контакты</a></li></ul>",
+          "form": {
+            "title": "MESSAGE",
+            "action": "i.rook.11@mail.ru",
+            "alerts": {
+              "success": "Cпасибо, мы ответим на ваш вопрос в течении суток."
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": false,
+                "customTitle": "Name*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": false,
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Сообщение"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"mbr-buttons__btn btn btn-danger\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">Задать вопрос</a>",
+          "_styles": {
+            "UL": {
+              "font-size": "17px"
+            },
+            "P": {
+              "font-size": "17px",
+              "color": "#cccccc"
+            }
+          }
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-i",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#2b2b2b",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Анна Леонова. Все права защещены 2017 (с)"
+        }
+      ]
+    }
+  }
+}

@@ -9,13 +9,15 @@
     },
     "versionFirst": "3.10.3",
     "uniqCompNum": 26,
-    "versionPublish": "3.10.3"
+    "versionPublish": "3.10.3",
+    "favicon": "",
+    "noImageResize": ""
   },
   "pages": {
     "Ведение групп": {
       "settings": {
         "main": true,
-        "title": "",
+        "title": "Ведение",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
@@ -116,7 +118,7 @@
             "showButtons": false,
             "showArrow": true
           },
-          "title": "Нет времеи на ведение группы?",
+          "title": "Нет времени на ведение группы?",
           "text": "Мы вам поможем!",
           "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-warning animated fadeInUp delay\" href=\"https://mobirise.com\">LEARN MORE</a>"
         },
